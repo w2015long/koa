@@ -6,4 +6,4 @@ app.use(koaStatic('F:/web/admin-ark'));
 
 app.listen(30008);
 
-console.log('admin-app start at 30008');
+console.log('app start at 30008');
